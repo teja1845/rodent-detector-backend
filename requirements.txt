@@ -1,0 +1,8 @@
+torch
+torchvision
+Pillow
+numpy
+flask
+flask_cors
+adafruit-io
+tqdm
